@@ -5,6 +5,7 @@
 
 ## Download
 📄 [Download PDF Version](linux_commands_reference.pdf)
+
 ---
 
 ## Table of Contents
