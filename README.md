@@ -4,8 +4,7 @@
 > **547 commands** across **18 categories**.
 
 ## Download
-📄 [Download PDF Version](linux_commands_reference.pdf)
-
+[Download PDF Version](linux_commands_reference.pdf)
 ---
 
 ## Table of Contents
